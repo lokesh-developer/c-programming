@@ -18,6 +18,6 @@ int main()
     scanf("%f", &E.salary);
     printf("\nThe id of the employee is: %d \n", E.id);
     printf("\nThe name of the employee is: %c \n", E.name);
-    printf("\nThe salary of the employee is: %f \n", E.salary);
+    printf("\nThe salary of the employee is: %0.2f \n", E.salary);
     system("pause");
 }

@@ -9,7 +9,7 @@ int main()
     for (i = 0; i < 2; i++)
     {
         scanf("%d", &id[i]);
-        printf("\nThe id of the employees is: %d \n", id[i]);
+        printf("\nThe id of the employee is: %d \n", id[i]);
     }
     system("pause");
     return 0;

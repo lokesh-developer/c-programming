@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void main()
 {
@@ -20,4 +21,5 @@ void main()
     {
         // Statements inside the body of "else"
     }
+    system("pause");
 }
